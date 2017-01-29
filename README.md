@@ -1,1 +1,0 @@
-# mtconnect-azure
